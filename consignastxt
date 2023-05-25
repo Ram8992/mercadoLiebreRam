@@ -1,0 +1,37 @@
+Nuestro desafío es aplicarle los estilos que nos envía el departamento de diseño a cada
+sección del Header del sitio (navbar, login bar y al search bar). Recordemos que por el
+momento estamos trabajando mobile first.
+
+Para esto nos facilitó los siguientes estilos generales:
+
+● Paleta de colores
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a;
+
+● Tipografías
+Familia: 'Roboto'
+Nos envían esta demo de cómo cargar fuentes de Google Fonts. Además
+podemos consultar el siguiente recurso aquí, para más detalle.
+
+● Tamaños Tipográficos
+Cuerpos de texto: 12px
+Titulares (Basado en tu última visita/Ofertas): 24px
+Precios: 18px
+Descuentos: 16px
+Descripciones: 16px
+
+● Íconos
+
+El departamento de diseño usó los íconos de este sitio:
+https://fontawesome.com/icons?d=gallery&m=free
+
+Para ello nos pidieron que carguemos una hoja de estilos del mismo con esta
+porción de código. Nos indicaron que deberíamos de saber dónde tiene que estar
+ubicada, y sino que consultemos a nuestros compañeros.
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+rel="stylesheet" />
