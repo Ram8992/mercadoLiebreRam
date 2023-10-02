@@ -279,28 +279,31 @@ footer div p{
 
 form div{
     margin-bottom: 10px;
-    border-radius: 5%;
+    border-radius: 0%;
 }
 .text-field{
     padding: 5px;
-    border-radius: 10%;
+    border-radius: 0%;
 }
 .selecciones{
     display: flex;
     flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    width: 96px;
 }
 
 .botonForm{
-    width: 48%;
+    width: 100px;
 }
 
 .botonSubmit{
-background-color: #39b54a;
+background-color: #482edb;
 color: #000;
 }
 
 .botonReset{
-    background-color: #426ac2;
+    background-color: #482edb;
     color: #000;
 }
 
@@ -319,7 +322,7 @@ color: #000;
     align-items: center;
     justify-content: space-between;
     margin: 0px;
-    width: 90vw;
+    width: 98vw;
 }
 
 form div{
